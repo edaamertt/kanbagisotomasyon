@@ -15,7 +15,6 @@
 -- TransferTbl tablosu, işlem geçmişini tutmak amacıyla
 -- sade bir yapıda tasarlanmıştır.
 --
--- Veritabanı dersi kapsamında hazırlanmıştır.
 -- =====================================================
 -- =====================================================
 -- KAN BAĞIŞI OTOMASYONU VERİTABANI TABLOLARI
@@ -62,3 +61,4 @@ CREATE TABLE [dbo].[TransferTbl] (
     [KGrup]    NVARCHAR (10) NULL,
     PRIMARY KEY CLUSTERED ([TNum] ASC)
 );
+
