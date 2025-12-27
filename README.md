@@ -22,7 +22,7 @@ Bu proje C# Windows Forms kullanılarak geliştirilmiş bir kan bağışı otoma
 ## Form Ekran Görüntüleri
 
 ### Admin Giriş
-![Admin Login](screenshots/admin_login.png)
+![Admin Login](screenshots/adminlogin_form.png)
 
 ### Ana Sayfa
 ![Ana Sayfa](screenshots/anasayfa.png)
@@ -34,6 +34,6 @@ Bu proje C# Windows Forms kullanılarak geliştirilmiş bir kan bağışı otoma
 ![Hasta](screenshots/hasta_form.png)
 
 ### Kan Bağışı
-![Kan Bağışı](screenshots/kan_bagisi.png)
+![Kan Bağışı](screenshots/kanbagis_form.png)
 
 > Not: Görseller proje içerisinde Resources klasörü altında yönetilmektedir.
